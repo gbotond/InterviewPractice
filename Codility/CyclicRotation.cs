@@ -1,6 +1,6 @@
 class Solution
 {
-    public int[] solution(int[] a, int k)
+    public int[] Solution(int[] a, int k)
     {        
         int n = a.Length;
         int[] result = new int[n];      
